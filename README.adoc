@@ -1,6 +1,7 @@
 = Doku
 
-* clone project via: 
+* clone project via:
+
   [source,bash]
   ----
   git clone https://github.com/Razefix1000/website.git
