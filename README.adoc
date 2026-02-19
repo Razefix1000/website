@@ -1,8 +1,8 @@
 = Doku
 
-* clone project via: git clone 
-[source,bash]
-----
-https://github.com/Razefix1000/website.git
-----
+* clone project via: 
+  [source,bash]
+  ----
+  git clone https://github.com/Razefix1000/website.git
+  ----
 * then open the `index.html` in the browser you like
