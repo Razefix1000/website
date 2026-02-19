@@ -7,4 +7,4 @@
 git clone https://github.com/Razefix1000/website.git
 ----
 
-* then open the 'index.html' in the browser you like
+* then open the `index.html` in the browser you like
