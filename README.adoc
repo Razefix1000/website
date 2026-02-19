@@ -1,4 +1,5 @@
 = Doku
+
 * clone project via: git clone 
 [source,bash]
 ----
