@@ -1,5 +1,11 @@
 = Doku
 
+== How to Play
+
+* Open this link: https://razefix1000.github.io/website[Website]
+
+== For Developer
+
 * clone project via:
 
 [source,bash]
